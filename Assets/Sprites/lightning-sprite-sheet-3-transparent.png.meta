@@ -1,0 +1,3722 @@
+fileFormatVersion: 2
+guid: 25c2d8036ed00454f8f1565340056462
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lightning-sprite-sheet-3-transparent_0
+    21300002: lightning-sprite-sheet-3-transparent_1
+    21300004: lightning-sprite-sheet-3-transparent_2
+    21300006: lightning-sprite-sheet-3-transparent_3
+    21300008: lightning-sprite-sheet-3-transparent_4
+    21300010: lightning-sprite-sheet-3-transparent_5
+    21300012: lightning-sprite-sheet-3-transparent_6
+    21300014: lightning-sprite-sheet-3-transparent_7
+    21300016: lightning-sprite-sheet-3-transparent_8
+    21300018: lightning-sprite-sheet-3-transparent_9
+    21300020: lightning-sprite-sheet-3-transparent_10
+    21300022: lightning-sprite-sheet-3-transparent_11
+    21300024: lightning-sprite-sheet-3-transparent_12
+    21300026: lightning-sprite-sheet-3-transparent_13
+    21300028: lightning-sprite-sheet-3-transparent_14
+    21300030: lightning-sprite-sheet-3-transparent_15
+    21300032: lightning-sprite-sheet-3-transparent_16
+    21300034: lightning-sprite-sheet-3-transparent_17
+    21300036: lightning-sprite-sheet-3-transparent_18
+    21300038: lightning-sprite-sheet-3-transparent_19
+    21300040: lightning-sprite-sheet-3-transparent_20
+    21300042: lightning-sprite-sheet-3-transparent_21
+    21300044: lightning-sprite-sheet-3-transparent_22
+    21300046: lightning-sprite-sheet-3-transparent_23
+    21300048: lightning-sprite-sheet-3-transparent_24
+    21300050: lightning-sprite-sheet-3-transparent_25
+    21300052: lightning-sprite-sheet-3-transparent_26
+    21300054: lightning-sprite-sheet-3-transparent_27
+    21300056: lightning-sprite-sheet-3-transparent_28
+    21300058: lightning-sprite-sheet-3-transparent_29
+    21300060: lightning-sprite-sheet-3-transparent_30
+    21300062: lightning-sprite-sheet-3-transparent_31
+    21300064: lightning-sprite-sheet-3-transparent_32
+    21300066: lightning-sprite-sheet-3-transparent_33
+    21300068: lightning-sprite-sheet-3-transparent_34
+    21300070: lightning-sprite-sheet-3-transparent_35
+    21300072: lightning-sprite-sheet-3-transparent_36
+    21300074: lightning-sprite-sheet-3-transparent_37
+    21300076: lightning-sprite-sheet-3-transparent_38
+    21300078: lightning-sprite-sheet-3-transparent_39
+    21300080: lightning-sprite-sheet-3-transparent_40
+    21300082: lightning-sprite-sheet-3-transparent_41
+    21300084: lightning-sprite-sheet-3-transparent_42
+    21300086: lightning-sprite-sheet-3-transparent_43
+    21300088: lightning-sprite-sheet-3-transparent_44
+    21300090: lightning-sprite-sheet-3-transparent_45
+    21300092: lightning-sprite-sheet-3-transparent_46
+    21300094: lightning-sprite-sheet-3-transparent_47
+    21300096: lightning-sprite-sheet-3-transparent_48
+    21300098: lightning-sprite-sheet-3-transparent_49
+    21300100: lightning-sprite-sheet-3-transparent_50
+    21300102: lightning-sprite-sheet-3-transparent_51
+    21300104: lightning-sprite-sheet-3-transparent_52
+    21300106: lightning-sprite-sheet-3-transparent_53
+    21300108: lightning-sprite-sheet-3-transparent_54
+    21300110: lightning-sprite-sheet-3-transparent_55
+    21300112: lightning-sprite-sheet-3-transparent_56
+    21300114: lightning-sprite-sheet-3-transparent_57
+    21300116: lightning-sprite-sheet-3-transparent_58
+    21300118: lightning-sprite-sheet-3-transparent_59
+    21300120: lightning-sprite-sheet-3-transparent_60
+    21300122: lightning-sprite-sheet-3-transparent_61
+    21300124: lightning-sprite-sheet-3-transparent_62
+    21300126: lightning-sprite-sheet-3-transparent_63
+    21300128: lightning-sprite-sheet-3-transparent_64
+    21300130: lightning-sprite-sheet-3-transparent_65
+    21300132: lightning-sprite-sheet-3-transparent_66
+    21300134: lightning-sprite-sheet-3-transparent_67
+    21300136: lightning-sprite-sheet-3-transparent_68
+    21300138: lightning-sprite-sheet-3-transparent_69
+    21300140: lightning-sprite-sheet-3-transparent_70
+    21300142: lightning-sprite-sheet-3-transparent_71
+    21300144: lightning-sprite-sheet-3-transparent_72
+    21300146: lightning-sprite-sheet-3-transparent_73
+    21300148: lightning-sprite-sheet-3-transparent_74
+    21300150: lightning-sprite-sheet-3-transparent_75
+    21300152: lightning-sprite-sheet-3-transparent_76
+    21300154: lightning-sprite-sheet-3-transparent_77
+    21300156: lightning-sprite-sheet-3-transparent_78
+    21300158: lightning-sprite-sheet-3-transparent_79
+    21300160: lightning-sprite-sheet-3-transparent_80
+    21300162: lightning-sprite-sheet-3-transparent_81
+    21300164: lightning-sprite-sheet-3-transparent_82
+    21300166: lightning-sprite-sheet-3-transparent_83
+    21300168: lightning-sprite-sheet-3-transparent_84
+    21300170: lightning-sprite-sheet-3-transparent_85
+    21300172: lightning-sprite-sheet-3-transparent_86
+    21300174: lightning-sprite-sheet-3-transparent_87
+    21300176: player_proyectile
+    21300178: lightning-sprite-sheet-3-transparent_89
+    21300180: lightning-sprite-sheet-3-transparent_90
+    21300182: lightning-sprite-sheet-3-transparent_91
+    21300184: lightning-sprite-sheet-3-transparent_92
+    21300186: lightning-sprite-sheet-3-transparent_93
+    21300188: lightning-sprite-sheet-3-transparent_94
+    21300190: lightning-sprite-sheet-3-transparent_95
+    21300192: lightning-sprite-sheet-3-transparent_96
+    21300194: lightning-sprite-sheet-3-transparent_97
+    21300196: lightning-sprite-sheet-3-transparent_98
+    21300198: lightning-sprite-sheet-3-transparent_99
+    21300200: lightning-sprite-sheet-3-transparent_100
+    21300202: lightning-sprite-sheet-3-transparent_101
+    21300204: lightning-sprite-sheet-3-transparent_102
+    21300206: lightning-sprite-sheet-3-transparent_103
+    21300208: lightning-sprite-sheet-3-transparent_104
+    21300210: lightning-sprite-sheet-3-transparent_105
+    21300212: lightning-sprite-sheet-3-transparent_106
+    21300214: lightning-sprite-sheet-3-transparent_107
+    21300216: lightning-sprite-sheet-3-transparent_108
+    21300218: lightning-sprite-sheet-3-transparent_109
+    21300220: lightning-sprite-sheet-3-transparent_110
+    21300222: lightning-sprite-sheet-3-transparent_111
+    21300224: lightning-sprite-sheet-3-transparent_112
+    21300226: lightning-sprite-sheet-3-transparent_113
+    21300228: lightning-sprite-sheet-3-transparent_114
+    21300230: lightning-sprite-sheet-3-transparent_115
+    21300232: lightning-sprite-sheet-3-transparent_116
+    21300234: lightning-sprite-sheet-3-transparent_117
+    21300236: lightning-sprite-sheet-3-transparent_118
+    21300238: lightning-sprite-sheet-3-transparent_119
+    21300240: lightning-sprite-sheet-3-transparent_120
+    21300242: lightning-sprite-sheet-3-transparent_121
+    21300244: lightning-sprite-sheet-3-transparent_122
+    21300246: lightning-sprite-sheet-3-transparent_123
+    21300248: lightning-sprite-sheet-3-transparent_124
+    21300250: lightning-sprite-sheet-3-transparent_125
+    21300252: lightning-sprite-sheet-3-transparent_126
+    21300254: lightning-sprite-sheet-3-transparent_127
+    21300256: lightning-sprite-sheet-3-transparent_128
+    21300258: lightning-sprite-sheet-3-transparent_129
+    21300260: lightning-sprite-sheet-3-transparent_130
+    21300262: lightning-sprite-sheet-3-transparent_131
+    21300264: lightning-sprite-sheet-3-transparent_132
+    21300266: lightning-sprite-sheet-3-transparent_133
+    21300268: lightning-sprite-sheet-3-transparent_134
+    21300270: lightning-sprite-sheet-3-transparent_135
+    21300272: lightning-sprite-sheet-3-transparent_136
+    21300274: lightning-sprite-sheet-3-transparent_137
+    21300276: lightning-sprite-sheet-3-transparent_138
+    21300278: lightning-sprite-sheet-3-transparent_139
+    21300280: lightning-sprite-sheet-3-transparent_140
+    21300282: lightning-sprite-sheet-3-transparent_141
+    21300284: lightning-sprite-sheet-3-transparent_142
+    21300286: lightning-sprite-sheet-3-transparent_143
+    21300288: lightning-sprite-sheet-3-transparent_144
+    21300290: lightning-sprite-sheet-3-transparent_145
+    21300292: lightning-sprite-sheet-3-transparent_146
+    21300294: lightning-sprite-sheet-3-transparent_147
+    21300296: lightning-sprite-sheet-3-transparent_148
+    21300298: lightning-sprite-sheet-3-transparent_149
+    21300300: lightning-sprite-sheet-3-transparent_150
+    21300302: lightning-sprite-sheet-3-transparent_151
+    21300304: lightning-sprite-sheet-3-transparent_152
+    21300306: lightning-sprite-sheet-3-transparent_153
+    21300308: lightning-sprite-sheet-3-transparent_154
+    21300310: lightning-sprite-sheet-3-transparent_155
+    21300312: lightning-sprite-sheet-3-transparent_156
+    21300314: lightning-sprite-sheet-3-transparent_157
+    21300316: lightning-sprite-sheet-3-transparent_158
+    21300318: lightning-sprite-sheet-3-transparent_159
+    21300320: lightning-sprite-sheet-3-transparent_160
+    21300322: lightning-sprite-sheet-3-transparent_161
+    21300324: lightning-sprite-sheet-3-transparent_162
+    21300326: lightning-sprite-sheet-3-transparent_163
+    21300328: lightning-sprite-sheet-3-transparent_164
+    21300330: lightning-sprite-sheet-3-transparent_165
+    21300332: lightning-sprite-sheet-3-transparent_166
+    21300334: lightning-sprite-sheet-3-transparent_167
+    21300336: lightning-sprite-sheet-3-transparent_168
+    21300338: lightning-sprite-sheet-3-transparent_169
+    21300340: lightning-sprite-sheet-3-transparent_170
+    21300342: lightning-sprite-sheet-3-transparent_171
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 928
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cd2ac8bdf0b5f419661235cc4a2aca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 928
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ba08f280960b14491ece6e8c71a7a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 928
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c7e0cb4c0a4614cb75cd467bc3691c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 925
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3f8421541ab7d4eaa2dd313e9a3a59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 928
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0741d7af32503c94a85af0e8930bab09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 928
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c787f32a55deb4eac2cab4d180ad3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 928
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409c3e9807035c24697aed7fc4d28709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 928
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a719b0e0b54006f40afc05a73b32d427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 925
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caaf68cc010f9a439706f35925adf83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 928
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb342615ac054a44a049b79f92ab313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 928
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f5004ac7b2cbe458ea60b7b301b20a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 926
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707e27e20e48cbb4c963c1cc30768f5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 928
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8be361371963c4ebcf3cf7f33bfe17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 926
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a06815b286984943a7b152a6e372f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 926
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40195cdf9bca4514ab2b5aa11715902e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 928
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811918cf8c111424a9859b7996fe2c29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 928
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9809f49e9086ea459aa8f66ef71c58a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_17
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 712
+        width: 32
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515acd672c734804c916e4afe758bfa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_18
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 711
+        width: 32
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e51d6334e89604097e5a2c645723a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_19
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 718
+        width: 46
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4e2ebd9b99e2e46887fcc7d06da9df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 718
+        width: 65
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed568cb4a2314c4c8b8f6a98a3d6423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_21
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 904
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d4c71f07eef7418d293a0972001dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 880
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124219f97d9408341bd43b4944c3ef44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 880
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ca53b7af592c444957c55e41fd05ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 880
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08ddabbc677db94d8eebb10baa477f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 880
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862e8bdb9e4d31b429db12de4a770049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 880
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a566b6cd09f3c4ca4b417adba89113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 880
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d546d4d7c08fc4348b7ecb8af80bfb6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 879
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4c54adb9fe1e34488b0999e01f6a5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_29
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 840
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e654ab4e8f488524ca99d954fd02603f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 863
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189ebd2a1bceffd49abfb6bf59e3524e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 863
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcf71c01fdc33b46a10fddc7894c02c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_32
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 861
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70369b27f318548855c40e92ed49d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 822
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd817efdfab1cbb4da3043e4f864ec49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 822
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9205820b77a5a4b438d3fba74c9a3559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 822
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dbcf12c4170414bbaef9cec34c3d02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 822
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05438569794c0447a5e7bd8dec54100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_37
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 776
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123a44e598959aa4f9f209a932b3a3d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_38
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 800
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65e3435609735f4dbb908906bf00298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 800
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cda2827be5668044b2c9a5e3413d823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_40
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 798
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca73a66ecd9c3d645bf1956e3303e42e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 757
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c557eb1159497a40b6b6231ed597e59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 759
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4297d483fbe50234caa57cf90713dd30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 759
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f278068e7a197dc499b0884321aa696f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_44
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 760
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc2b57dcc876b942a0ffe9cc86fff34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_45
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 720
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3ae29e1d11aa847b05f192a620d494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_46
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 734
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2d8cd10d26af24f9cb7c7640d2c229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_47
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 734
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b8bdb02ae905748bc0684c0d6e808c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_48
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 734
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce2bdbb864ca0c45a64f4b305dcf351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 732
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48884479cbf93734fad142a3e41555d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_50
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 734
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578edd294aa3f3d49aa86ab8b8b79677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 734
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce80f4f8f4c0245b7bb57e82d54de2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 688
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b803b3091ff1f894d9b1837d52f466ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 686
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af249d452034f8b4a8a8f400bd97cb76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_54
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 699
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b81809553c80442aef786ce112588b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_55
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 697
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed676782dcea9e24d8d1c9fbeffa3203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_56
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 699
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832c1d0cef8af7f4f8d338589cd07329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_57
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 697
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828593f5b3dd46146b970030786349f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_58
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 675
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d4662a83b641f42981ad2da8b93551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_59
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 675
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc37f72a21502f4e81204b792854f1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 675
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a6c7839df7daf4288c211b98935538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 675
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dfb21e2d501bd4f804c3131420bfa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 675
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98af6cd8c71b124eaf80a756598102f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_63
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 675
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e6901ccd4f01c48a22a90cff998f18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 675
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d3233b98432784984ab107c3055b78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_65
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 579
+        width: 31
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019b336a11fe2ad44a48b9431bdcfa30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_66
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 657
+        width: 110
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042ef37fe29dab140aa95e60416000f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_67
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 672
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1179dd2f8c6e8e40910c7828dfb3bb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_68
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 626
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f901b87da3096dd4eb33ee0672673237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_69
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 626
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eab59dac5bc1d3418fd4494be1fc8f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_70
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 618
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9981330a8ed5a47b7e42e82531009f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_71
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 636
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6682614d41259b94794e527448bf500a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_72
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 638
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92dd973b3458cc479b6a1eb3d36ff3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_73
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 638
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63353be8d224ed644905a4da56caea5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_74
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 638
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62796987a3fc0654a8d2236ad28859c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_75
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 638
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e38e97ec780ce448ee3f73d44affdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_76
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 638
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9946793de1610c468581820c6f99c7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_77
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 603
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290e089a58a4b20458f65e9fdf009ca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 603
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3caac95ffc6d94cb564be13d7ee85a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_79
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 603
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36d6b1b710c8dd4caa1db9bb970c2df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_80
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 603
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff38f8d6c5383cc42ab4e9521cf79d1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_81
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 603
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f21ed5c2472adf4d865b11b301d35e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_82
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 603
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb2a90c71cad0d44b7c332cc56bd1af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_83
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 565
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13e12845de6bd843899b89b358b4fac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 565
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c2b45bb5792e541b6aa6e9ce5a6935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_85
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 562
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f4390e0ce09e34b8da29ad009f6eeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_86
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 563
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bea30de3bface40b94bbdcb3c3cb08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_87
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 565
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bf300a00157614498b56c9c5a11ce9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_proyectile
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 558
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83a9a592fb95fa44afb641ec80427b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_89
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 540
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bbfc446dd24f242988fff4e712ce78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_90
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 540
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d200c7f77b4cbff4ea078c78d63fce07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_91
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 538
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0308af0073693a4ab989f2ae9ffd9c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_92
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 538
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f085d7cc1a1c7fd4c8e3c103bfaa2bb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_93
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 540
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a98876e7729a24daa6a40b94017aaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_94
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 538
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df07cda39de630e439674040b29702fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 540
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701c493c8ee9d994f8710beaceb85322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_96
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 540
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f42c846cbb99de4fb551bc50ec768c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 540
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea366a3b9dda3e4fb3af9cccd779c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_98
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 540
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba1e6cbeef7fdb42948db3a1bc80b77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_99
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 540
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47008bcba3cbd945b352c73e7f591c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_100
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 538
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730c8a0c71861ed4e83166deb8523636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_101
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 520
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98aa658117e2bd40b8bcc09d4365618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_102
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 486
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6259c2a311026a48aaeee79bf8047a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 495
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048c4d8455116b546912cf1d807453cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_104
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 492
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8216f61335777404ca1486b507b445aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_105
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 497
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97788caedb7e2f43bb7ad4946cdea5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_106
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 486
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adad0e578b2be5d4d9632ed3c68e17f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_107
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 495
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6991cba9ba043594ba9b5207db9fea5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_108
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 492
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7507acdc1b044df4b904cdb794b67c1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_109
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 497
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17da01430410afe4295873c3614b42b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_110
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 486
+        width: 126
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cf6c9f42807e54e9616d287f2b5c3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_111
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 470
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dfbdae83e68824fa82f4bcb1d442db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_112
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 470
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a7c4a71bb6bd848982efa4bd727eab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_113
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 470
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b661a6ab49a50f4caecb32f261e1a57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_114
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 468
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2663c9c1b27b04480acb387baf89ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_115
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 451
+        width: 152
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c90cf257492fba4aa02bc09e61285da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_116
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 418
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8454d11a19df984fb114a252746ec90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_117
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 418
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec603422fccea94e93fe83c825cb978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_118
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 423
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1346c5bbfff7ae144929fa82f8d70904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_119
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 425
+        width: 190
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f97452678a26c439c76927007e4cba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_120
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 401
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5157e7c722bb8409406c8e080f4871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_121
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 401
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f4631e3d6125e4b81ac1b567cd8d28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 401
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8717b0abf7dbf244ea0c89de60caa67b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_123
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 401
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a94c3d8445001a43a23f06ffdf109f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_124
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 401
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e9f7644f26f194aafa98faf3e29146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_125
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 401
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d046d76541fe04ead72f5bee797ad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_126
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 401
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9ea603abda26044ba2a779a585d593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_127
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 352
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a3e118baab4ea46af88308a8f57de7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_128
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 352
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b5540a11d2ac43bd18724a5d8a68b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_129
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 352
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0af6ebbb0537a54a824d1380a4e47b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_130
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 362
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcb339ca40cbc74dac275f7fc178605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_131
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 362
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eab9f3b6fcccc74786559ed02eb9320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_132
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 362
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032cff0dbda125744ad35c22ced221af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_133
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7bb49af719254408ab72b56f322b13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_134
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 362
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba1accb7a7c57b4fa02a45153d3682f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_135
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36113fb69aaf2f4293904e9304814d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_136
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 362
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7e3608f18ffae448218fa8710678cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_137
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 362
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b62dff77e6a73a4b92c88d642861105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_138
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 362
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4a23f4c0ebe3e47b3c798a6d542ffc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_139
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 362
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9363bac7d27ca146a0d084b3b8f3095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_140
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 362
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5095ee2b71eca24f835953b6918900c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_141
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f6879594f80a14e8982b61a12832a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_142
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 362
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a42fdbd1e8a6b74489430657ce0eda3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_143
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df313326016af545b603345eb34ce4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_144
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 362
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11667a24f2092df4d96b44c7300af09c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_145
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 346
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da367720a2024f64dacd5408c9f5f58f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_146
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 346
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d0d761ed9de214e9062822d5065f18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_147
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce23a545b945d984683c73f8f23e191a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_148
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 346
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3432ed070ae835f4bad6bf6afa7757a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_149
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 346
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d836c347ccf9ae40a78e86162bf70be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_150
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 346
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7452c8fca5832ef4db4c2fa7ca3813f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_151
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47271341aaf48149af808b53d35901e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_152
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 346
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfba0a5d13a0c846ae7f3137959962d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_153
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2442478e8b9f44e945c506cbb8f376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_154
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 346
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63efc41262fa48645bcb1f534c933446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_155
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 346
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e59aa49ccd08469f3d57841923932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_156
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 344
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bed04c152caab43a15d728587d2901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_157
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 346
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17fc0b825e363e45ad591561d62cd29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_158
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 346
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67784e0f221301744a4bbe0b6caf9022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_159
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 335
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee59eb27305e3b42b2ebd65769fec8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_160
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 333
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3b62ef7e59f07499664fd283120fac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_161
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 335
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fa26179ad59564aba1eeedbb64fc62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_162
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 335
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7387c14bcdb23e849a9f533abe86d050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_163
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 335
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703bdca06cddd0a478dc57f719ea9c4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_164
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 335
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be791a269a86eae4b981d80fe69bf28c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_165
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 295
+        width: 164
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336887d7446f1014da8b50af7a75d395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_166
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 287
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109253c86ea4fc04981d31d240558cb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_167
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 287
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cda7fd26441994a867decb71849de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_168
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 287
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d3dbd4edec91e4384d4c4cb1fd91ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_169
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 287
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c69136ff3fd314db2cc0c06eeb440a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_170
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 200
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c21a8a0d9a27b247a5df67759f3c5fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-sprite-sheet-3-transparent_171
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 17
+        width: 232
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609ce2800c84b8f419d7901f26b245bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 256a7f24925a68b45a6898e25dac60be
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
