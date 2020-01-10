@@ -13,3 +13,4 @@ Note: I don't own copyright for the sprites, sounds or visual effects used on th
 
 ![Gameplay](/Screenshots/screenshot_1.png?raw=true "Gameplay")
 
+![Gameplay](/Screenshots/screenshot_2.png?raw=true "Gameplay")
