@@ -6,3 +6,11 @@ In the course, this game is originally a common laser defender with space ships,
 You can [Play it](https://franfusaro.github.io/pokemon-laser-defender) on GitHub Pages on any desktop browser! Just use the arrows to move and the space bar to fire. Enjoy :)
 
 Note: I don't own copyright for the sprites, sounds or visual effects used on this project.
+
+## Screenshots
+
+![Main Menu](/Screenshots/screenshot_3.png?raw=true "Main Menu")
+
+![Gameplay](/Screenshots/screenshot_1.png?raw=true "Gameplay")
+
+![Gameplay](/Screenshots/screenshot_2.png?raw=true "Gameplay")
