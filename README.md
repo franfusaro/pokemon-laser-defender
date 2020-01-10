@@ -9,8 +9,8 @@ Note: I don't own copyright for the sprites, sounds or visual effects used on th
 
 ## Screenshots
 
-![Main Menu](/Screenshots/screenshot_3.png?raw=true "Main Menu")
+![Main Menu](/Screenshots/screenshot_main_menu.png?raw=true "Main Menu")
 
-![Gameplay](/Screenshots/screenshot_1.png?raw=true "Gameplay")
+![Gameplay](/Screenshots/screenshot_gameplay_1.png?raw=true "Gameplay")
 
-![Gameplay](/Screenshots/screenshot_2.png?raw=true "Gameplay")
+![Gameplay](/Screenshots/screenshot_gameplay_2.png?raw=true "Gameplay")
